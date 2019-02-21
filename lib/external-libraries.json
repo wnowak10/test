@@ -3,7 +3,8 @@
     "test": {
       "remote": "https://github.com/wnowak10/test.git",
       "checkout": "refs/heads/master",
-      "remotePath": ""
+      "remotePath": "",
+      "lastHash": "38beb484f9354a7ad31f9aabb797409ec4138286"
     }
   },
   "pythonPath": [
