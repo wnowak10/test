@@ -1,7 +1,14 @@
 {
-  "gitReferences": {},
+  "gitReferences": {
+    "test pathh": {
+      "remote": "https://github.com/wnowak10/test",
+      "checkout": "refs/heads/master",
+      "remotePath": ""
+    }
+  },
   "pythonPath": [
-    "python"
+    "python",
+    "test pathh"
   ],
   "rsrcPath": [
     "R"
