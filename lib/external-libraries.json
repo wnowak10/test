@@ -1,12 +1,5 @@
 {
-  "gitReferences": {
-    "new_git_link": {
-      "remote": "https://github.com/wnowak10/test",
-      "checkout": "refs/heads/master",
-      "remotePath": "",
-      "lastHash": "280b24ba959310cc4a6a77476885231c6425ce35"
-    }
-  },
+  "gitReferences": {},
   "pythonPath": [
     "python",
     "new_git_link"
