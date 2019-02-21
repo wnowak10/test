@@ -3,7 +3,8 @@
     "new_git_link": {
       "remote": "https://github.com/wnowak10/test",
       "checkout": "refs/heads/master",
-      "remotePath": ""
+      "remotePath": "",
+      "lastHash": "2390ffb683858ae66b3a67c526f47a5aecb5c1bb"
     }
   },
   "pythonPath": [
